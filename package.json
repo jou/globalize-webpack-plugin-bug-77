@@ -1,0 +1,16 @@
+{
+  "name": "globalize-webpack-plugin-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cldr-data": "^34.0.0",
+    "globalize": "^1.4.0",
+    "iana-tz-data": "^2018.5.0"
+  },
+  "devDependencies": {
+    "globalize-webpack-plugin": "^3.0.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}

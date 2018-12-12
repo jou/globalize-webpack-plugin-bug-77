@@ -1,0 +1,4 @@
+/.tmp-globalize-webpack
+/dist
+/node_modules
+/yarn-*.log
